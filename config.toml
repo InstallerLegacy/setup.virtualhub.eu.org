@@ -374,7 +374,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       Mix = false
     #  Comment config
     [params.page.comment]
-      enable = false
+      enable = true
       # Disqus comment config
       [params.page.comment.disqus]
         # 
@@ -444,18 +444,18 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # giscus comment config (https://giscus.app/)
       [params.page.comment.giscus]
         # You can refer to the official documentation of giscus to use the following configuration.
-        enable = false
-        repo = ""
-        repoId = ""
-        category = "Announcements"
-        categoryId = ""
+        enable = true
+        repo = "InstallerLegacy/setup.virtualhub.eu.org"
+        repoId = "R_kgDOH8PqbA"
+        category = "Comments"
+        categoryId = "DIC_kwDOH8PqbM4CRPfJ"
         # automatically adapt the current theme i18n configuration when empty
-        lang = ""
+        lang = "en"
         mapping = "pathname"
         reactionsEnabled = "1"
         emitMetadata = "0"
-        inputPosition = "bottom"
-        lazyLoading = false
+        inputPosition = "top"
+        lazyLoading = true
         lightTheme = "light"
         darkTheme = "dark"
     #  Third-party library config
