@@ -1,13 +1,13 @@
-# How to contribut to VirtualHub Setup?
+# How to contribute to VirtualHub Setup?
 
-First of all thank you for showing your intrest in contributing
-to the VirtualHub setup website. If you contribute to this
+First of all thank you for showing your interest in contributing
+to the VirtualHub Setup website. If you contribute to this
 project, you contribute to the large effort of conserving old
 software.
 
 VirtualHub Setup is not a continuous project unlike VirtualHub
 itself. It's goal is to provide instructions for setting up a
-system suitable fot following the VirtualHub tutorials.
+system suitable for following the VirtualHub tutorials.
 
 So, I will probably create tutorials here myself if I think one
 is needed for following my next tutorial on VirtualHub. This
@@ -20,10 +20,10 @@ for that. If you now enough about Hugo to make an edit yourself
 then you are welcome to fork, make the edit and open a pull
 request.
 
-There is one more possibility for you to contribute. You mave have
+There is one more possibility for you to contribute. You may have
 contributed a tutorial on VirtualHub and want to add a
 corresponding tutorial here. If that is the case, you should have
 received an email from me containing the required instructions.
-If not then please email me at contact@virtualhub.eu.org.
+If not then please email me at [contact@virtualhub.eu.org](mailto:contact@virtualhub.eu.org).
 
-Than You ince again for showing interest in this project.
+Than You once again for showing interest in this project.
