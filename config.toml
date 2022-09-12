@@ -105,7 +105,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "Setting up your system to follow VirtualHub tutorials..."
   # website images for Open Graph and Twitter Cards
-  images = ["/images/logo.webp"]
+  images = ["/images/logo.svg"]
 
   # Header config
   [params.header]
@@ -169,13 +169,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
-    svgFavicon = ""
+    svgFavicon = "/images/logo.svg"
     # Android browser theme color
-    themeColor = "#ffffff"
+    themeColor = "#ffae00"
     # Safari mask icon color
-    iconColor = "#5bbad5"
+    iconColor = "#ffae00"
     # Windows v8-10 tile color
-    tileColor = "#da532c"
+    tileColor = "#ffc40d"
 
   #  Search config
   [params.search]
@@ -209,7 +209,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/logo.webp"
+      avatarURL = "/images/logo.svg"
       #  title shown in home page (HTML format is supported)
       title = "Welcome to VirtualHub Setup!"
       # subtitle shown in home page (HTML format is supported)
@@ -501,7 +501,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Publisher info
       [params.page.seo.publisher]
         name = "Legacy Installer"
-        logoUrl = "/images/logo.webp"
+        logoUrl = "/images/logo.svg"
 
   #  TypeIt config
   [params.typeit]
@@ -525,9 +525,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #  Site SEO config
   [params.seo]
     # image URL
-    image = "/images/logo.webp"
+    image = "/images/logo.svg"
     # thumbnail URL
-    thumbnailUrl = "/images/logo.webp"
+    thumbnailUrl = "/images/logo.svg"
 
   #  Analytics config
   [params.analytics]
