@@ -17,7 +17,7 @@ img {
   }
 </style>
 
-![VirtualHub Setup logo](/images/logo.webp)
+![VirtualHub Setup logo](/images/logo.svg)
 
 Welcome to VirtualHub Setup! Here we will setup our system in order to follow the [VirtualHub](https://virtualhub.eu.org) tutorials.
 
