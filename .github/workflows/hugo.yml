@@ -1,0 +1,50 @@
+# Sample workflow for building and deploying a Hugo site to GitHub Pages
+name: Deploy Hugo site to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build_and_deploy_hugo_site:
+    runs-on: ubuntu-latest
+    name: Build and deploy Hugo site
+
+    steps:
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+    
+    - name: Checkout repo on source_branch
+      uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
+        # <<recommended if project uses git submodules for any purpose>>
+        # <<required if deploying to git submodule directory>>
+        token: ${{ secrets.MY_SECRET }}   # <<if needed for private repos>>
+        fetch-depth: '0'
+        # <<fetch-depth: '0' currently required until shallow clone problems are solved>>
+        
+    - name: Build site and push to release branch
+      uses: aormsby/hugo-deploy-to-pages@v2.1
+      id: build_step  # <<for outputs>>
+      with:
+        source_branch: 'main'
+        release_branch: 'public'
+        # submodule_release_branch: '' <<only provide if you are publishing to directory with git submodule>>
+        # full_rebuild: true
+        # hugo_publish_directory: 'documents'   <<publish to another directory if needed>>
+        # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
+        # commit_message: "Github Action"
+        # test_mode: false <<enable to run a few verification tests before your first live run>>
+
+        # <<lots of other options!>>
+
+    - name: Check if new build was made
+      if: steps.build.outputs.was_new_build_created == 'true'
+      run: echo "YAAASSSS new build."
+      if: steps.build.outputs.was_new_build_created == 'false'
+      run: echo "NOOOOOOO new build."
