@@ -25,4 +25,3 @@ formkeepEmbed.addEventListener('formkeep-embed:submitted', _event => {
   console.log('Submitted form...')
 })
 </script>
-

@@ -27,4 +27,3 @@ comment:
 {{< admonition failure "VirtualHub Old" true >}}
 <https://old.virtualhub.eu.org/> - Old version of VirtualHub, powered by [Publii](https://getpublii.com/).
 {{< /admonition >}}
-
