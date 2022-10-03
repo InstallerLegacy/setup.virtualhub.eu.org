@@ -4,7 +4,7 @@ date: 2022-10-01T10:46:00+05:30
 draft: false
 featuredImage: "/images/2022/10/01/banner.webp"
 featuredImagePreview: "/images/2022/10/01/banner.webp"
-tags: ["Kubuntu", "Operting System"]
+tags: ["Kubuntu", "Operating System"]
 categories: ["OS"]
 ---
 
@@ -92,7 +92,7 @@ When you enter the secure boot configuration password, nothing will appear on yo
 
 Choose "Reboot" at last. After reboot, Kubuntu should start. If Windows starts instead, reboot again and press the boot menu key and choose Kubuntu. To make Kubuntu start and ask which OS you want to boot, you need to change your boot order. Refer to your device documentation to find how to do so.
 
-After Kubuntu starts, log in using your password. See the next tutorial to learn what to do after installing Kubuntu.
+After Kubuntu starts, log in using your password. See the [next tutorial](/kubuntu-post-installation) to learn what to do after installing Kubuntu.
 
 Do you want to follow the tutorial by watching a video? Here it is:
 
@@ -104,4 +104,4 @@ Don't like youtube? You can download the above video from [here](https://link.st
 bafybeihcwazeaqywa3ukaebgj77yfcrirukly3b4mrxykng5kwvlshlk2e
 ```
 
-This tutorial itself is also available on IPFS. If you have an IPFS-friendly browser like Brave and have configured the IPFS options then there should be an option to open this tutorial on IPFS on the right-hand side of the address bar. If you do not have an IPFS-friendly browser, you can read this tutorial on IPFS [here](https://setup-virtualhub-eu-org.ipns.dweb.link/install-kubuntu/). An archive of this tutorial will be available soon via Wayback Machine.
+This tutorial itself is also available on IPFS. If you have an IPFS-friendly browser like Brave and have configured the IPFS options then there should be an option to open this tutorial on IPFS on the right-hand side of the address bar. If you do not have an IPFS-friendly browser, you can read this tutorial on IPFS [here](https://setup-virtualhub-eu-org.ipns.dweb.link/install-kubuntu/). An archive of this tutorial is available [here](https://web.archive.org/web/20221001100400/https://setup.virtualhub.eu.org/install-kubuntu/) via Wayback Machine.
