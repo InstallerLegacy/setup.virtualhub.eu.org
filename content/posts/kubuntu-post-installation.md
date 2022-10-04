@@ -46,7 +46,7 @@ Press `Y` and then press enter to start the upgrade.
 
 It will take time to upgrade, depending on your internet speed and the time elapsed since the release of the ISO file you used to install Kubuntu. Don't worry. Every upgrade does not take so long. If you update daily, it should take less than a minute.
 
-After the update is done, you should reboot if there was a kernel upgrade. If you are not sure, upgrade anyway.
+After the update is done, you should reboot if there was a kernel upgrade. If you are not sure, reboot anyway.
 
 ### Updating Snap packages
 
@@ -112,7 +112,14 @@ Now we have completed the post-installation setup. Explore the plasma desktop an
 
 {{< image src="/images/2022/10/03/help.webp" alt="Help" caption="Help">}}
 
-Do you want to follow the tutorial by watching a video? A video will be available soon.
-The video will be also available to download directly and on IPFS.
+Do you want to follow the tutorial by watching a video? Here it is:
 
-This tutorial itself is also available on IPFS. If you have an IPFS-friendly browser like Brave and have configured the IPFS options then there should be an option to open this tutorial on IPFS on the right-hand side of the address bar. If you do not have an IPFS-friendly browser, you can read this tutorial on IPFS [here](https://setup-virtualhub-eu-org.ipns.dweb.link/kubuntu-post-installation/). An archive of this tutorial will be available soon via Wayback Machine.
+{{< youtube GxXiRfft-6w >}}
+
+Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jufpdsrfdlu6zxdaf3gslyag2n7a/virtualhub-setup-videos%2FOS%2FWhat%20to%20do%20after%20installing%20Kubuntu.mp4?download=true). The video is also available on IPFS. You can download it from [here](https://bafybeihw2zjk5wsfhl7gnr6jaofn4wia7nopmz7nf54jaox3oacrym3lku.ipfs.dweb.link/). The CID of the video on IPFS is:
+
+```
+bafybeihw2zjk5wsfhl7gnr6jaofn4wia7nopmz7nf54jaox3oacrym3lku
+```
+
+This tutorial itself is also available on IPFS. If you have an IPFS-friendly browser like Brave and have configured the IPFS options then there should be an option to open this tutorial on IPFS on the right-hand side of the address bar. If you do not have an IPFS-friendly browser, you can read this tutorial on IPFS [here](https://setup-virtualhub-eu-org.ipns.dweb.link/kubuntu-post-installation/). An archive of this tutorial is available [here](https://web.archive.org/web/20221003103804/https://setup.virtualhub.eu.org/kubuntu-post-installation/) via Wayback Machine.
