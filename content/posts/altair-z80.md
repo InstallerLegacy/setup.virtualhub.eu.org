@@ -4,7 +4,7 @@ date: 2022-10-06T19:18:00+05:30
 draft: false
 featuredImage: "/images/2022/10/07/banner.webp"
 featuredImagePreview: "/images/2022/10/07/banner.webp"
-tags: ["Emulator", "Source",]
+tags: ["Emulator", "Executable",]
 categories: ["Emulator"]
 ---
 
@@ -34,32 +34,52 @@ AltairZ80 emulator is not available in Kubuntu repositories. It is also not avai
 
 For other systems, you can download an executable from here: <https://schorn.ch/altair_beta.php>
 
-Now run the following command to extract the executable:
+We need to use the command line to install the emulator. Start Konsole. Now use the following command to move to the `Downloads` folder:
+
+```bash
+cd Downloads
+```
+You can run the `ls` command to verify that the file you downloaded it there. Now run the following command to extract the executable:
 
 ```bash
 gunzip altairz80l64.gz
 ```
 
+Now run the `ls` command again. The `.gz` extension should have been removed. This means the file is extracted.
+
 {{< image src="/images/2022/10/07/AltairZ80-1.webp" alt="Extract AltairZ80 archive" caption="gunzip altairz80l64.gz" >}}
+
+Now we will make the file executable. Run the following command to make it executable:
+
+```bash
+chmod +x altairz80l64
+```
+
+{{< image src="/images/2022/10/07/AltairZ80-2.webp" alt="Make the AltairZ80 file executable" caption="chmod +x altairz80l64" >}}
 
 Now we will place the executable in `/usr/local/bin` so that we can call it without specifying its path:
 
 ```bash
-sudo cp altairz80l64 /usr/local/bin/altairz80
+sudo mv altairz80l64 /usr/local/bin/altairz80
 ```
 
-{{< image src="/images/2022/10/07/AltairZ80-2.webp" alt="Install AltairZ80 executable" caption="sudo cp altairz80l64 /usr/local/bin/altairz80" >}}
+Enter you password when asked to do so.
 
+{{< image src="/images/2022/10/07/AltairZ80-3.webp" alt="Install AltairZ80 executable" caption="sudo mv altairz80l64 /usr/local/bin/altairz80" >}}
 
-Enter you password when asked to do so. Now you can run AltairZ80. Just run this command:
+We have installed AltairZ80. Now you can start it. Just run this command:
 
 ```bash
 altairz80
 ```
 
-{{< image src="/images/2022/10/07/AltairZ80-3.webp" alt="AltairZ80" caption="altairz80" >}}
+{{< image src="/images/2022/10/07/AltairZ80-4.webp" alt="AltairZ80" caption="altairz80" >}}
 
 That's it. We installed Altairz80 emulator. Now you can follow the tutorials on [VirtualHub](https://virtualhub.eu.org) which uses this emulator.
+
+To exit the emulator, type `exit` and press enter.
+
+{{< image src="/images/2022/10/07/AltairZ80-5.webp" alt="Exit AltairZ80" caption="exit" >}}
 
 ### Windows
 
@@ -67,11 +87,13 @@ That's it. We installed Altairz80 emulator. Now you can follow the tutorials on 
 You should use Linux. If you don't know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/categories/os/), a beginner-friendly distro.
 {{< /admonition>}}
 
-You do not need to install anything for following the tutorials which use the AltairZ80 emulator. All the archives you download have an executable for Windows and a batch file. Run the batch file and AltairZ80 will start with the OS you wanted to install on it.
+You can download an archive for windows from [here](https://schorn.ch/cpm/zip/beta/altairz80.zip) ( [local copy](https://link.storjshare.io/ju7vgjnsfdotdbdrinmxfbcfpx5q/virtualhub-setup%2FAltairZ80%2Faltairz80.zip?download=true) / [IPFS](https://dweb.link/ipfs/bafybeid5wwcyu76byljb5gfnwnztimcc7bxt4pbodid4mip3wnhp7qvsk4) ). Now extract the archive. Inside, you will find two `.exe` files. One is for 64 bit and one for 32 bit. Copy the respective file for your system to somewhere and delete the other one. You do not need to install anything. See the "Windows" section of the respective tutorial on [VirtualHub](https://virtualhub.eu.org) to know how to use it.
+
+There are also some documentation included in the archive. If you want, you can read them, else you can delete them.
 
 ## Documentation
 
-You can download the AltairZ80 guide from here:
+The linux archive only contains a single executable. It does not include any documentation files. If you want to read the AltairZ80 guide, you can download the Windows archive from [above](#windows). It contains the guide in PDF format. You can also download the same PDF file from here:
 
 - [AltairZ80 Documentation](https://link.storjshare.io/jv2jesw2rhgalxby3owlr3dudptq/virtualhub-setup%2FAltairZ80%2Faltairz80_doc.pdf?download=true) ( [IPFS](https://dweb.link/ipfs/bafkreiggumjovndpcubxzeseaesaeyqjmci6urxzlmjpyvuzaaujj5cpzy) )
 
