@@ -94,14 +94,16 @@ Choose "Reboot" at last. After reboot, Kubuntu should start. If Windows starts i
 
 After Kubuntu starts, log in using your password. See the [next tutorial](/kubuntu-post-installation) to learn what to do after installing Kubuntu.
 
+## Video tutorial
+
 Do you want to follow the tutorial by watching a video? Here it is:
 
 {{< youtube hM27bdsNYeQ >}}
 
-Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jxuwkw6v7a3fdckqm2x4g4gajfwa/virtualhub-setup-videos%2FOS%2FHow%20to%20install%20Kubuntu%2022.04.mp4?download=true). The video is also available on IPFS. You can download it from [here](https://bafybeihcwazeaqywa3ukaebgj77yfcrirukly3b4mrxykng5kwvlshlk2e.ipfs.dweb.link/). The CID of the video on IPFS is:
+Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jxuwkw6v7a3fdckqm2x4g4gajfwa/virtualhub-setup-videos%2FOS%2FHow%20to%20install%20Kubuntu%2022.04.mp4?download=true). The video is also available on IPFS. You can download it from [here](https://bafybeih7fgtaft7ks77ytyey2fhnqz4o2sdt3aloow2w5j6dh275ku5lre.ipfs.w3s.link/How%20to%20install%20Kubuntu%2022.04.mp4). The CID of the folder of the video on IPFS is:
 
 ```
-bafybeihcwazeaqywa3ukaebgj77yfcrirukly3b4mrxykng5kwvlshlk2e
+bafybeih7fgtaft7ks77ytyey2fhnqz4o2sdt3aloow2w5j6dh275ku5lre
 ```
 
 This tutorial itself is also available on IPFS. If you have an IPFS-friendly browser like Brave and have configured the IPFS options then there should be an option to open this tutorial on IPFS on the right-hand side of the address bar. If you do not have an IPFS-friendly browser, you can read this tutorial on IPFS [here](https://setup-virtualhub-eu-org.ipns.dweb.link/install-kubuntu/). An archive of this tutorial is available [here](https://web.archive.org/web/20221001100400/https://setup.virtualhub.eu.org/install-kubuntu/) via Wayback Machine.

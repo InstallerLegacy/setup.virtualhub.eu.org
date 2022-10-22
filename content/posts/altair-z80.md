@@ -30,7 +30,7 @@ If you have not already installed a Linux distribution, see [our tutorials on ho
 
 AltairZ80 emulator is not available in Kubuntu repositories. It is also not available in repositories of any Linux distro I have used. So, we need to install it manually. You can download an executable from here:
 
-- [AltairZ80 for 64-bit Linux](https://schorn.ch/cpm/zip/beta/altairz80l64.gz) ( [Local copy](https://link.storjshare.io/jwfri42zngvnnz6yxuwpjvofyika/virtualhub-setup%2FAltairZ80%2Faltairz80l64.gz?download=true) / [IPFS](https://dweb.link/ipfs/bafkreifslgft4pe3u5vt25rj5las5dofswtbx367pslkjed5o6vveyvnlq) )
+- [AltairZ80 for 64-bit Linux](https://schorn.ch/cpm/zip/beta/altairz80l64.gz) ( [Local copy](https://link.storjshare.io/jwfri42zngvnnz6yxuwpjvofyika/virtualhub-setup%2FAltairZ80%2Faltairz80l64.gz?download=true) / [IPFS](https://bafybeigg6myj7trzhvvben33fk3b7exrtjy4foofws44dfgfm72xm4d6fa.ipfs.w3s.link/altairz80l64.gz) )
 
 For other systems, you can download an executable from here: <https://schorn.ch/altair_beta.php>
 
@@ -87,7 +87,7 @@ To exit the emulator, type `exit` and press enter.
 You should use Linux. If you don't know how to install a Linux distro, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/categories/os/), a beginner-friendly distro.
 {{< /admonition>}}
 
-You can download an archive for windows from [here](https://schorn.ch/cpm/zip/beta/altairz80.zip) ( [local copy](https://link.storjshare.io/ju7vgjnsfdotdbdrinmxfbcfpx5q/virtualhub-setup%2FAltairZ80%2Faltairz80.zip?download=true) / [IPFS](https://dweb.link/ipfs/bafybeid5wwcyu76byljb5gfnwnztimcc7bxt4pbodid4mip3wnhp7qvsk4) ). Now extract the archive. Inside, you will find two `.exe` files. One is for 64 bit and one for 32 bit. Copy the respective file for your system to somewhere and delete the other one. You do not need to install anything. See the "Windows" section of the respective tutorial on [VirtualHub](https://virtualhub.eu.org) to know how to use it.
+You can download an archive for windows from [here](https://schorn.ch/cpm/zip/beta/altairz80.zip) ( [local copy](https://link.storjshare.io/ju7vgjnsfdotdbdrinmxfbcfpx5q/virtualhub-setup%2FAltairZ80%2Faltairz80.zip?download=true) / [IPFS](https://bafybeiam5qjbpupbwayegr2rkks5hjcmgpnlc4vnpgs6pooefoslqr27re.ipfs.w3s.link/ipfs/bafybeiam5qjbpupbwayegr2rkks5hjcmgpnlc4vnpgs6pooefoslqr27re/altairz80.zip) ). Now extract the archive. Inside, you will find two `.exe` files. One is for 64 bit and one for 32 bit. Copy the respective file for your system to somewhere and delete the other one. You do not need to install anything. See the "Windows" section of the respective tutorial on [VirtualHub](https://virtualhub.eu.org) to know how to use it.
 
 There are also some documentation included in the archive. If you want, you can read them, else you can delete them.
 
@@ -95,12 +95,12 @@ There are also some documentation included in the archive. If you want, you can 
 
 The linux archive only contains a single executable. It does not include any documentation files. If you want to read the AltairZ80 guide, you can download the Windows archive from [above](#windows). It contains the guide in PDF format. You can also download the same PDF file from here:
 
-- [AltairZ80 Documentation](https://link.storjshare.io/jv2jesw2rhgalxby3owlr3dudptq/virtualhub-setup%2FAltairZ80%2Faltairz80_doc.pdf?download=true) ( [IPFS](https://dweb.link/ipfs/bafkreiggumjovndpcubxzeseaesaeyqjmci6urxzlmjpyvuzaaujj5cpzy) )
+- [AltairZ80 Documentation](https://link.storjshare.io/jv2jesw2rhgalxby3owlr3dudptq/virtualhub-setup%2FAltairZ80%2Faltairz80_doc.pdf?download=true) ( [IPFS](https://bafybeidiwqm2uffr2au77rqzgpmcgzcqcssi2xgdkg5m3ibhqk5i2basbe.ipfs.w3s.link/altairz80_doc.pdf) )
 
 AltairZ80 is a part of SIMH family of emulators. You can download SIMH documentation from here:
 
-- [SIMH Users’ Guide](http://simh.trailing-edge.com/pdf/simh_doc.pdf) ( [Local copy](https://link.storjshare.io/jvtg4ghgzfe35l5lfyzhdeuwyzdq/virtualhub-setup%2FAltairZ80%2Fsimh_doc.pdf?download=true) / [IPFS](https://dweb.link/ipfs/bafkreihuwr5b6f4a3evhzojpnez7ye7ckee45qcvtpxcb2exvcnkyqgsk4) )
-- [SIMH FAQ](http://simh.trailing-edge.com/pdf/simh_faq.pdf) ( [Local copy](https://link.storjshare.io/jxviezwk4qnsnycu3azyrhgkn7jq/virtualhub-setup%2FAltairZ80%2Fsimh_faq.pdf?download=true) / [IPFS](https://dweb.link/ipfs/bafkreickurjax44p6wvb3zaejajo232j564vrf2ua75koyqh75tetmw54q) )
+- [SIMH Users’ Guide](http://simh.trailing-edge.com/pdf/simh_doc.pdf) ( [Local copy](https://link.storjshare.io/jvtg4ghgzfe35l5lfyzhdeuwyzdq/virtualhub-setup%2FAltairZ80%2Fsimh_doc.pdf?download=true) / [IPFS](https://bafybeih3dtpvg5xstjx6rghk3ftyixim4pnvplesjjg23mkfoc4kwyqupi.ipfs.w3s.link/simh_doc.pdf) )
+- [SIMH FAQ](http://simh.trailing-edge.com/pdf/simh_faq.pdf) ( [Local copy](https://link.storjshare.io/jxviezwk4qnsnycu3azyrhgkn7jq/virtualhub-setup%2FAltairZ80%2Fsimh_faq.pdf?download=true) / [IPFS](https://bafybeihc6elabrromcaxuj2sjtcacbslnsr4upmloicqc3ipjffr3n6dam.ipfs.w3s.link/simh_faq.pdf) )
 
 
 ## Credits
