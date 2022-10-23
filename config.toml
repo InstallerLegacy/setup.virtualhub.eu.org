@@ -40,6 +40,17 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
+    identifier = "start-here"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Start Here"
+    url = "/start-here/"
+    # title will be shown when you hover on this menu link
+    title = ""
+  [[menu.main]]
+    weight = 2
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
@@ -50,7 +61,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     # title will be shown when you hover on this menu link
     title = ""
   [[menu.main]]
-    weight = 2
+    weight = 3
     identifier = "about"
     pre = ""
     post = ""
@@ -58,23 +69,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/about/"
     title = ""
   [[menu.main]]
-    weight = 3
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-  [[menu.main]]
     weight = 4
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-  [[menu.main]]
-    weight = 5
     identifier = "contact"
     pre = ""
     post = ""
@@ -82,7 +77,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     url = "/contact/"
     title = ""
   [[menu.main]]
-    weight = 6
+    weight = 5
     identifier = "other-websites"
     pre = ""
     post = ""
