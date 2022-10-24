@@ -39,7 +39,7 @@ We need to use the command line to install the emulator. Start Konsole. Now use 
 ```bash
 cd Downloads
 ```
-You can run the `ls` command to verify that the file you downloaded it there. Now run the following command to extract the executable:
+You can run the `ls` command to verify that the file you downloaded is there. Now run the following command to extract the executable:
 
 ```bash
 gunzip altairz80l64.gz
@@ -107,3 +107,13 @@ AltairZ80 is a part of SIMH family of emulators. You can download SIMH documenta
 
 - [AltairZ80 Emulator (© 2022 by Peter Schorn)](https://schorn.ch/altair.html) - [Peter Schorn](mailto:peter.schorn@acm.org)
 - [SIMH](http://simh.trailing-edge.com/)
+
+## Video tutorial
+
+Do you want to follow the tutorial by watching a video? Here it is:
+
+{{< youtube zgzS9w_qaRw >}}
+
+Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jv63w2lpjiuu5ltbm3m4eswkgdaa/virtualhub-setup-videos%2FEmulators%2FHow%20to%20install%20AltairZ80%20emulator.mp4). The video is also available on IPFS. You can download it from [here](https://bafybeiddci3h4uwslnwjejfqngnsutzdg245qns2e474gqi4abo6skulnm.ipfs.w3s.link/How%20to%20install%20AltairZ80%20emulator.mp4).
+
+This tutorial itself is also available on IPFS. You can read this tutorial on IPFS [here](https://setup-virtualhub-eu-org.ipns.dweb.link/altair-z80/). An archive of this tutorial is available [here](http://web.archive.org/web/20221022161813/https://setup.virtualhub.eu.org/altair-z80/) via Wayback Machine.
