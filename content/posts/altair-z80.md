@@ -28,7 +28,7 @@ In this tutorial we will install [AltairZ80](https://schorn.ch/altair.html) emul
 If you have not already installed a Linux distribution, see [our tutorials on how to install Kubuntu](https://setup.virtualhub.eu.org/categories/os/), a beginner-friendly distro.
 {{< /admonition>}}
 
-AltairZ80 emulator is not available in Kubuntu repositories. It is also not available in repositories of any Linux distro I have used. So, we need to install it manually. You can download an executable from here:
+AltairZ80 emulator is available in Kubuntu repositories in `simh` package. It is also available in repositories of many Linux distro I have used. But the version included in all distributions are very old and can not run some OS we are going to install on [VirtualHub](https://virtualhub.eu.org). So, we need to install it manually. You can download an executable from here:
 
 - [AltairZ80 for 64-bit Linux](https://schorn.ch/cpm/zip/beta/altairz80l64.gz) ( [Local copy](https://link.storjshare.io/jwfri42zngvnnz6yxuwpjvofyika/virtualhub-setup%2FAltairZ80%2Faltairz80l64.gz?download=true) / [IPFS](https://bafybeigg6myj7trzhvvben33fk3b7exrtjy4foofws44dfgfm72xm4d6fa.ipfs.w3s.link/altairz80l64.gz) )
 
