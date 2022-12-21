@@ -118,6 +118,6 @@ Do you want to follow the tutorial by watching a video? Here it is:
 
 {{< youtube GxXiRfft-6w >}}
 
-Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jufpdsrfdlu6zxdaf3gslyag2n7a/virtualhub-setup-videos%2FOS%2FWhat%20to%20do%20after%20installing%20Kubuntu.mp4?download=true). The video is also available on IPFS. You can download it from [here](https://bafybeigencf4y3hgdzzdca5h4gatizrgqfr6cigxxceduyjqk7iujxdpsm.ipfs.w3s.link/What%20to%20do%20after%20installing%20Kubuntu.mp4).
+Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jufpdsrfdlu6zxdaf3gslyag2n7a/virtualhub-setup-videos%2FOS%2FWhat%20to%20do%20after%20installing%20Kubuntu.mp4?download=true).
 
-This tutorial itself is also available on IPFS. You can read this tutorial on IPFS [here](https://setup-virtualhub-eu-org.ipns.dweb.link/kubuntu-post-installation/). An archive of this tutorial is available [here](https://web.archive.org/web/20221003103804/https://setup.virtualhub.eu.org/kubuntu-post-installation/) via Wayback Machine.
+Archives of this tutorial are available on [Wayback Machine](http://web.archive.org/web/*/https://setup.virtualhub.eu.org/kubuntu-post-installation/).
