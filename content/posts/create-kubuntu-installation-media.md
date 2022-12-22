@@ -54,4 +54,4 @@ Do you want to follow the tutorial by watching a video? Here it is:
 
 Don't like youtube? You can download the above video from [here](https://link.storjshare.io/s/jwgvrk72blugzyx3rcbvgs7jnx6q/virtualhub-setup-videos/OS/How%20to%20create%20a%20Kubuntu%20installation%20media.mp4?download=true).
 
-Archives of this tutorial are available on [Wayback Machine](http://web.archive.org/web/*/https://setup.virtualhub.eu.org/create-kubuntu-installation-media/).
+Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://setup.virtualhub.eu.org/create-kubuntu-installation-media/).

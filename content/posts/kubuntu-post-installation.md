@@ -120,4 +120,4 @@ Do you want to follow the tutorial by watching a video? Here it is:
 
 Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jufpdsrfdlu6zxdaf3gslyag2n7a/virtualhub-setup-videos%2FOS%2FWhat%20to%20do%20after%20installing%20Kubuntu.mp4?download=true).
 
-Archives of this tutorial are available on [Wayback Machine](http://web.archive.org/web/*/https://setup.virtualhub.eu.org/kubuntu-post-installation/).
+Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://setup.virtualhub.eu.org/kubuntu-post-installation/).

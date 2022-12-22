@@ -102,4 +102,4 @@ Do you want to follow the tutorial by watching a video? Here it is:
 
 Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jxuwkw6v7a3fdckqm2x4g4gajfwa/virtualhub-setup-videos%2FOS%2FHow%20to%20install%20Kubuntu%2022.04.mp4?download=true).
 
-Archives of this tutorial are available on [Wayback Machine](http://web.archive.org/web/*/https://setup.virtualhub.eu.org/install-kubuntu/).
+Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://setup.virtualhub.eu.org/install-kubuntu/).

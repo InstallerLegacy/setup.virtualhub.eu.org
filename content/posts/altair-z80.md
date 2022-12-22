@@ -1,4 +1,4 @@
- ---
+---
 title: "How to install AltairZ80 emulator?"
 date: 2022-10-06T19:18:00+05:30
 draft: false
@@ -50,7 +50,7 @@ If your distribution does not package AlrairZ80, you need to install it manually
 
 For other systems, you can download an executable from here: <https://schorn.ch/altair.html>
 
-We need to use the command line to install the emulator. Start Konsole. Now use the following command to move to the `Downloads` folder:
+We need to use the command line to install the emulator. Start your Terminal (On Kubuntu it is Konsole). Now use the following command to move to the `Downloads` folder:
 
 ```bash
 cd Downloads
@@ -122,5 +122,5 @@ AltairZ80 is a part of SIMH family of emulators. You can download SIMH documenta
 
 Do you want to follow the tutorial by watching a video? We will post a video on our [youtube channel](https://www.youtube.com/@virtualhubsetup) soon.
 
-Archives of this tutorial are available on [Wayback Machine](http://web.archive.org/web/*/https://setup.virtualhub.eu.org/altair-z80/).
+Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://setup.virtualhub.eu.org/altair-z80/).
 
