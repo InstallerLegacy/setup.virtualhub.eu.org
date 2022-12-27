@@ -4,7 +4,7 @@ date: 2022-10-06T19:18:00+05:30
 draft: false
 featuredImage: "/images/2022/10/07/banner.webp"
 featuredImagePreview: "/images/2022/10/07/banner.webp"
-tags: ["Emulator", "Executable",]
+tags: ["Emulator", "Executable"]
 categories: ["Emulator"]
 ---
 
