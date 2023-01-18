@@ -120,7 +120,12 @@ AltairZ80 is a part of SIMH family of emulators. You can download SIMH documenta
 
 ## Video tutorial
 
-Do you want to follow the tutorial by watching a video? We will post a video on our [youtube channel](https://www.youtube.com/@virtualhubsetup) soon.
+Do you want to follow the tutorial by watching a video? Here it is:
+
+{{< youtube U0qO_eUB2wQ >}}
+
+Don't like youtube? You can download the above video from [here](https://link.storjshare.io/jxz2popzssldjuzzhupszitvcboq/virtualhub-setup-videos%2FEmulators%2FHow%20to%20install%20AltairZ80.mp4?download=true).
+
 
 Archives of this tutorial are available on [Wayback Machine](https://web.archive.org/web/*/https://setup.virtualhub.eu.org/altairz80/).
 

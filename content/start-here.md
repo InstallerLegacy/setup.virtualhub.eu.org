@@ -19,7 +19,7 @@ enableEmoji: true
 
 ## Emulators
 
-- [Altair Z80](/altairz80/)
+- [Altair Z80](/altairz80/) (:arrow_forward: [Youtube Video](https://youtu.be/U0qO_eUB2wQ))
 
 ## Hypervisor
 
