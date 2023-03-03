@@ -1,4 +1,4 @@
-baseURL = "https://setup.virtualhub.eu.org/"
+baseURL = "https://installerlegacy.github.io/setup.virtualhub.eu.org/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
