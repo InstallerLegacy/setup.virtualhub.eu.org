@@ -1,9 +1,1 @@
-I have corrected an error found on this page:
-
-< url-of-the-page >
-
-Here is the description of the issue:
-
-< description >
-
-The GitHub Issue associated with this problem is #[Issue Number].
+This repository is only used for tracking issues. Do not open a pull request here. If you want to contribute, see [CONTRIBUTING.md](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/blob/main/CONTRIBUTING.md).
