@@ -16,9 +16,9 @@ tutorial to this website.
 
 But, you may want to report errors in the existing tutorials.
 You can use [GitHub Issues](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/issues)
-for that. If you know enough about Hugo to make an edit yourself
-then you are welcome to fork, make the edit, and open a pull
-request.
+for that. If you want to be able to edit the tutorials yourself,
+please submit at least one issue and then contact me at [contact@virtualhub.eu.org](mailto:contact@virtualhub.eu.org)
+to get access to the ghost admin interface.
 
 There is one more possibility for you to contribute. You may have
 contributed a tutorial on VirtualHub and want to add a
