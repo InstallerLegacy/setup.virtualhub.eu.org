@@ -1,6 +1,6 @@
 # VirtualHub Setup
 
-> This repository is no longer used to generate VirtualHub Setup Website. Instead, VIrtualHub setup is powered by [ghost](https://ghost.org). This repository is only used for tracking issues. Do not open a pull request here. If you want to contribute, see [CONTRIBUTING.md](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/blob/main/CONTRIBUTING.md).
+> This repository is no longer used to generate VirtualHub Setup Website. Instead, VirtualHub setup is powered by [ghost](https://ghost.org). This repository is only used for tracking issues. Do not open a pull request here. If you want to contribute, see [CONTRIBUTING.md](https://github.com/InstallerLegacy/setup.virtualhub.eu.org/blob/main/CONTRIBUTING.md).
 
 Welcome to VirtualHub Setup! Here we will set up our system to follow the VirtualHub tutorials.
 
